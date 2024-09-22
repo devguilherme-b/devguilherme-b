@@ -49,6 +49,6 @@ Implementing creative, secure, and scalable solutions
 
 ## 📫 Get in Touch
 
-LinkedIn: My LinkedIn
+LinkedIn: [My Linkedin](https://www.linkedin.com/in/devguilherme-barbosa)
 
 Email: dev.guilhermebarbos@gmail.com
