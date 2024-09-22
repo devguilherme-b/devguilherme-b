@@ -51,4 +51,4 @@ Implementing creative, secure, and scalable solutions
 
 LinkedIn: My LinkedIn
 
-Email: guilhermebarbosa@example.com
+Email: dev.guilhermebarbos@gmail.com
