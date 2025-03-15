@@ -1,4 +1,4 @@
-!["Header para meu GItHub"](assets/github-header-image.png)
+<img src="assets/github-header-image.png" width="100%">
 
 ###
 
