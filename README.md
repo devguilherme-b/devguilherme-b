@@ -77,10 +77,8 @@ My goal is to become a highly skilled developer, creating innovative and scalabl
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" height="30" alt="Mssql logo"  />
   <img width="12" />
-  <img src="  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" height="30" alt="Bash logo"  />
-  <img width="12" />
-  <img src="  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" height="30" alt="Windows logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash logo"  />
+  <img width="12" /
 </div>
 
 ## Projects
