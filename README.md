@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=☕+|+Prepare+um+bom+café...;sente-se...;e+vamos+trocar+uma+ideia+ou+fazer+networking!+😊"/>
+
+
 <img src="assets/github-header-image.png" width="100%">
 
 ###
@@ -19,7 +22,7 @@
 
 ###
 
-# Olá! Seja bem-vindo(a) ao meu perfil no GitHub.
+# Seja muito bem-vindo ao meu perfil! 
 
 - [Sobre mim](#sobre-mim)
 - [Linguagens e ferramentas](#linguagens-e-ferramentas)
