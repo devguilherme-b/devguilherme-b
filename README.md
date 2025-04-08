@@ -24,7 +24,7 @@
 
 - [About Me](#about-me)
 - [Languages and tools](#languages-and-tools)
-- [Projects](#projects)
+- [Projects](#-projects)
 - [Statistics](#statistics)
 - [Contacts](#contacts)
 
@@ -83,17 +83,20 @@ My goal is to become a highly skilled developer, creating innovative and scalabl
   <img width="12" /
 </div>
 
-## Projects
+## 🚀 Projects
 
 ### 🔹 [Viva Mundo](https://github.com/devguilherme-b/viva-mundo)  
-📝 **Description:** Viva Mundo is a modern website project for travel companies. The goal is to offer users an intuitive interface to explore destinations and plan trips..  <br>
-🔧 **Tech Stack:** _Angular, HTML5, CSS3, Bootstrap and TypeScript_  <br>
+📝 **Description:** Viva Mundo is a modern website project for travel companies. The goal is to offer users an intuitive interface to explore destinations and plan trips.  
+🔧 **Tech Stack:** _Angular, HTML5, CSS3, Bootstrap, and TypeScript_  
 🔗 **[Deploy](https://vivamundo.vercel.app/)**  
 
-### 🛠️ In development: [ESM Institucional](https://github.com/devguilherme-b/esm-institucional)  
-🚧 **Status:** In development.  <br> 
-📌 **Goal:** The main objective is to strengthen the digital presence of ESM Consultoria e Treinamento Ltda, offering a modern and intuitive website that advertises its services, shares information about Occupational Safety and facilitates contact with customers and partners. <br>
-🔧 **Tech Stack:** _Angular, HTML5, CSS3, Bootstrap, TypeScript, CSSAnimation.io and Canva_  
+---
+
+### 🏁 [ESM Consultoria e Treinamento Ltda](https://github.com/devguilherme-b/esm-institucional)  
+✅ **Status:** Project completed.  
+📌 **Goal:** The main objective is to enhance the digital presence of **ESM Consultoria e Treinamento Ltda** by delivering a modern, professional, and intuitive website that promotes its Occupational Safety services and facilitates communication with clients and partners.  
+🔧 **Tech Stack:** _Angular, HTML5, CSS3, Bootstrap, TypeScript, CSSAnimation.io, and Canva_  
+🔗 **[Live Site](https://consultoriaesm.com.br/)**  
 
 ###
 
