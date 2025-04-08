@@ -27,13 +27,16 @@
 - [Projects](#-projects)
 - [Statistics](#statistics)
 - [Contacts](#contacts)
-
+- 
 ## About Me
 
-I am a _Software Engineering_ student and a _Full-Stack Developer_ passionate about web development and technology. I currently study and work with _Angular, Bootstrap, C#, .NET, ASP.NET MVC, and SQL Server, constantly improving my skills in back-end development and software architecture_.
+Nice to meet you, visitor!  
+My journey in technology began in 2023 with the **Full-Stack Programming** course at **SENAI**, focused on web development. At that time, I was still in my 2nd year of **Technical High School in Agroindustry** at **IFPI** — I completed both programs and today I’m a professional prepared for both the **technology** and **food industry** sectors.
 
-My goal is to become a highly skilled developer, creating innovative and scalable solutions. I'm always looking for new challenges, learning opportunities, and professional growth.
+But I didn’t stop there!  
+I’m currently pursuing a degree in **Software Engineering** at **Unicesumar**, specializing in **C#** through **Rocketseat**, and also training in **Administrative and Financial Assistance** through an apprenticeship program at **SENAR**.
 
+I’ve been striving to become a well-rounded professional — with strong technical skills, readiness for challenges, and a unique business perspective.
 ## Languages and tools
 
 ###
