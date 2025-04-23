@@ -87,9 +87,6 @@ e visão única de negócio.
 ## Estatísticas
 
 
-<p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devguilherme-b/devguilherme-b/output/github-contribution-grid-snake.svg">
-</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devguilherme-b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" />
