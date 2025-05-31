@@ -1,6 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=☕+|+Prepare+um+bom+café...;sente-se...;e+vamos+trocar+uma+ideia+ou+fazer+networking!+😊"/>
-
-
 <img src="assets/github-header-image.png" width="100%">
 
 ###
@@ -22,11 +19,11 @@
 
 ###
 
-# Seja muito bem-vindo ao meu perfil! 
+# Bem-vindo ao meu perfil! 
 
 - [Sobre mim](#sobre-mim)
-- [Linguagens e ferramentas](#linguagens-e-ferramentas)
 - [Projetos](#-projetos)
+- [Linguagens e ferramentas](#linguagens-e-ferramentas)
 - [Estatísticas](#estatísticas)
 - [Contatos](#contatos)
 
@@ -40,9 +37,21 @@ Mas não parei por aí! Atualmente, estou cursando **Engenharia de Software na U
 Tenho buscado me tornar um profissional completo, com conhecimento técnico, preparo para os desafios 
 e visão única de negócio.
 
+## 🚀 Projetos
+
+### [ESM Consultoria e Treinamento Ltda](https://consultoriaesm.com.br/)  
+**Descrição:** Site institucional desenvolvido para fortalecer a presença digital da empresa ESM Consultoria e Treinamento Ltda, especializada em Segurança do Trabalho.<br>
+**Tecnologias:** _Angular, HTML5, CSS3, Bootstrap, TypeScript, CSSAnimation.io, Canva_
+
+### [Viva Mundo](https://github.com/devguilherme-b/viva-mundo)  
+**Descrição:** Projeto de site moderno para agências de viagens, desenvolvido com foco em oferecer uma interface intuitiva que facilite a navegação por destinos e o planejamento de viagens. <br>
+**Tecnologias:** _Angular, HTML5, CSS3, Bootstrap, TypeScript_  
+🔗 **[Documentação](https://github.com/devguilherme-b/viva-mund)**  🔗 **[Acesse o site](https://vivamundo.vercel.app/)**  
+
+---
+
 ## Linguagens e Ferramentas
 
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" height="30" />
@@ -67,33 +76,12 @@ e visão única de negócio.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
 </div>
 
-## 🚀 Projetos
-
-### 🔹 [Viva Mundo](https://github.com/devguilherme-b/viva-mundo)  
-📝 **Descrição:** Projeto de site moderno para agências de viagens. O objetivo é oferecer uma interface intuitiva para explorar destinos e planejar viagens.  
-🔧 **Tecnologias:** _Angular, HTML5, CSS3, Bootstrap, TypeScript_  
-🔗 **[Acesse o site](https://vivamundo.vercel.app/)**  
-
----
-
-### 🏁 [ESM Consultoria e Treinamento Ltda](https://github.com/devguilherme-b/esm-institucional)  
-✅ **Status:** Projeto finalizado.  
-📌 **Objetivo:** Fortalecer a presença digital da empresa **ESM Consultoria e Treinamento Ltda**, com um site moderno, profissional e intuitivo, promovendo seus serviços de Segurança do Trabalho e facilitando a comunicação com clientes e parceiros.  
-🔧 **Tecnologias:** _Angular, HTML5, CSS3, Bootstrap, TypeScript, CSSAnimation.io, Canva_  
-🔗 **[Site oficial](https://consultoriaesm.com.br/)**
-
 ###
 
 ## Estatísticas
-
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devguilherme-b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" />
-
-  ###
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devguilherme-b&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devguilherme-b&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="devguilherme-b's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilherme-b&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="devguilherme-b's GitHub Stats" />
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
