@@ -44,7 +44,7 @@ e visão única de negócio.
 ## 🚀 Projetos
 
 ### [ESM Consultoria e Treinamento Ltda](https://consultoriaesm.com.br/)  
-**Descrição:** Site institucional desenvolvido para fortalecer a presença digital da empresa ESM Consultoria e Treinamento Ltda, especializada em Segurança do Trabalho.<br>
+**Descrição:** Site institucional desenvolvido para a empresa ESM Consultoria e Treinamento Ltda, especializada em Segurança do Trabalho.<br>
 **Tecnologias:** _Angular, HTML5, CSS3, Bootstrap, TypeScript, CSSAnimation.io, Canva_
 
 ### [Viva Mundo](https://github.com/devguilherme-b/viva-mundo)  
