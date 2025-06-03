@@ -14,14 +14,14 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software+💻;Desenvolvedor+Full-Stack+👨🏾‍💻;Desenvolvedor+Web+🎨;Seja+Bem-Vindo!+😊"/>
-</div>
-
-<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 </div>
-###
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software+💻;Desenvolvedor+Full-Stack+👨🏾‍💻;Desenvolvedor+Web+🎨;Seja+Bem-Vindo!+😊"/>
+</div>
+
 
 # Bem-vindo ao meu perfil! 
 
