@@ -17,6 +17,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software+💻;Desenvolvedor+Full-Stack+👨🏾‍💻;Desenvolvedor+Web+🎨;Seja+Bem-Vindo!+😊"/>
 </div>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+</div>
 ###
 
 # Bem-vindo ao meu perfil! 
@@ -82,8 +86,6 @@ e visão única de negócio.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devguilherme-b&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="devguilherme-b's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilherme-b&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="devguilherme-b's GitHub Stats" />
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
 ## Contatos
 
