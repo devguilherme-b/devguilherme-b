@@ -65,8 +65,18 @@ Plataforma moderna para agências de viagem com UI intuitiva e responsiva.
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devguilherme-b&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilherme-b&theme=radical&layout=compact&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devguilherme-b&theme=radical&fire=DD2727" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=devguilherme-b&show_icons=true&theme=radical&count_private=true" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilherme-b&theme=radical&layout=compact&hide_border=false" />
+</div>
+
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devguilherme-b&theme=github-compact&hide_border=true" width="90%"/>
 </div>
 
 ---
