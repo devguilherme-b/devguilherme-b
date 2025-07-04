@@ -32,21 +32,6 @@ Atuo com foco em desenvolvimento web moderno, interfaces intuitivas e soluções
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🌐 [ESM Consultoria e Treinamento](https://consultoriaesm.com.br/)
-Site institucional para empresa da área de Segurança do Trabalho.  
-*Tech Stack:* Angular · TypeScript · Bootstrap · CSSAnimation.io · Canva
-
----
-
-### ✈ [Viva Mundo](https://vivamundo.vercel.app/)
-Plataforma moderna para agências de viagem com UI intuitiva e responsiva.  
-*Tech Stack:* Angular · Bootstrap · TypeScript  
-🔗 [Documentação](https://github.com/devguilherme-b/viva-mundo) | 🔗 [Acesse o site](https://vivamundo.vercel.app/)
-
----
-
 ## 🧰 Skills & Tecnologias
 
 <div align="center">
@@ -59,6 +44,21 @@ Plataforma moderna para agências de viagem com UI intuitiva e responsiva.
 | ![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
 
 </div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🌐 [ESM Consultoria e Treinamento](https://consultoriaesm.com.br/)
+Site institucional para empresa da área de Segurança do Trabalho.  
+*Tech Stack:* Angular · TypeScript · Bootstrap · CSSAnimation.io · Canva
+
+---
+
+### ✈ [Viva Mundo](https://vivamundo.vercel.app/)
+Plataforma moderna para agências de viagem com UI intuitiva e responsiva.  
+*Tech Stack:* Angular · Bootstrap · TypeScript  
+🔗 [Documentação](https://github.com/devguilherme-b/viva-mundo) | 🔗 [Acesse o site](https://vivamundo.vercel.app/)
 
 ---
 
