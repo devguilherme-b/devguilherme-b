@@ -65,7 +65,7 @@ Plataforma moderna para agências de viagem com UI intuitiva e responsiva.
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devguilherme-b&theme=radical&fire=DD2727" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devguilherme-b&theme=radical&fire=DD2727" />
 </div>
 
 <div align="center">
