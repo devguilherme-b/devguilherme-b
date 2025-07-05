@@ -53,6 +53,7 @@ Atuo com foco em desenvolvimento web moderno, interfaces intuitivas e soluções
 ### 🌐 [ESM Consultoria e Treinamento](https://consultoriaesm.com.br/)
 Site institucional para empresa da área de Segurança do Trabalho.  
 *Tech Stack:* Angular · TypeScript · Bootstrap · CSSAnimation.io · Canva
+🔗 [Acesse o site](https://consultoriaesm.com.br/)
 
 ---
 
