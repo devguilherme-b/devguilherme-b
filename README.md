@@ -32,8 +32,6 @@ Sou Guilherme Barbosa, desenvolvedor *Full-Stack* apaixonado por tecnologia.
 - 💡 Especializando em *C# e .NET (Rocketseat)*
 - 📊 Formação complementar em *Assistência Administrativa e Financeira (SENAR)*
 
-Atuo com foco em desenvolvimento web moderno, interfaces intuitivas e soluções conectadas com o negócio.
-
 ---
 
 ## 🧰 Skills & Tecnologias
