@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.guilhermee?igsh=MzQ2NGxkbmtpdDd1)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.guilhermebarbos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devguilhermebarbosa)
-### 🌐 [Portifólio](https://devguilherme.azurewebsites.net)
+### 🌐 [Website](https://devguilherme.azurewebsites.net)
 </div>
 
 
@@ -16,26 +16,26 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software+💻;Desenvolvedor+Full-Stack+👨🏾‍💻;Desenvolvedor+Web+🎨;Seja+Bem-Vindo!+😊"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Software+Enginner+Student+💻;Full-Stack+Developer+👨🏾‍💻;Wellcome!+😊"/>
 </div>
 
 
 ---
 
-## 👨🏾‍💻 Sobre mim
+## 👨🏾‍💻 About me
 
-Sou Guilherme Barbosa, desenvolvedor *Full-Stack* apaixonado por tecnologia. 
+I'm Guilherme Barbosa, a Full-Stack developer passionate about technology:
 
-- 🎓 Certificado em *Programação Full-Stack pelo SENAI* (2023)
-- 🎓 Formado em Técnico em *Agroindústria pelo IFPI*
-- 👨‍🎓 Cursando *Engenharia de Software - Unicesumar*
-- 💡 Especializando em *C# e .NET (Rocketseat)*
-- 📊 Formação complementar em *Assistência Administrativa e Financeira (SENAR)*
+
+- 🎓 Certified in Full-Stack Programming from SENAI (2023)
+- 🎓 Technical degree in Agroindustry from IFPI
+- 👨‍🎓 Currently studying Software Engineering at Unicesumar
+- 💡 Specializing in C# and .NET (Rocketseat)
+- 📊 Additional training in Administrative and Financial Assistance (SENAR)
 
 ---
 
-## 🧰 Skills & Tecnologias
-
+## 🧰 Skills
 <div align="center">
 
 | Front-End | Back-End | Banco de Dados & API | Ferramentas | Análise de Dados |
@@ -50,23 +50,7 @@ Sou Guilherme Barbosa, desenvolvedor *Full-Stack* apaixonado por tecnologia.
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🌐 [ESM Consultoria e Treinamento](https://consultoriaesm.com.br/)
-Site institucional para empresa da área de Segurança do Trabalho.  
-*Tech Stack:* Angular · TypeScript · Bootstrap · CSSAnimation.io · Canva <br>
-🔗 [Acesse o site](https://consultoriaesm.com.br/)
-
----
-
-### ✈ [Viva Mundo](https://vivamundo.vercel.app/)
-Plataforma moderna para agências de viagem com UI intuitiva e responsiva.  
-*Tech Stack:* Angular · Bootstrap · TypeScript  
-🔗 [Documentação](https://github.com/devguilherme-b/viva-mundo) | 🔗 [Acesse o site](https://vivamundo.vercel.app/)
-
----
-
-## 📊 Estatísticas GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devguilherme-b&theme=radical&fire=DD2727" />
@@ -76,8 +60,6 @@ Plataforma moderna para agências de viagem com UI intuitiva e responsiva.
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=devguilherme-b&show_icons=true&theme=radical&count_private=true" />
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilherme-b&theme=radical&layout=compact&hide_border=false" />
 </div>
-
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devguilherme-b&theme=github-compact&hide_border=true" width="90%"/>
