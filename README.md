@@ -67,7 +67,7 @@ I'm Guilherme Barbosa, a Full-Stack developer passionate about technology:
 
 ---
 
-## 📫 Entre em contato
+## 📫 Contacts
 
 <div align="center">
 
